@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -140,34 +143,47 @@
     <text xml:id="nb07_02_02_text" type="reading">
         <body>
             <div type="image" xml:id="nb07_02_02_0001_text" facs="#nb07_02_02_0001_surface">
-                <div type="page" n="r.0001" xml:id="nb07_02_02_0001_recto_text" facs="#nb07_02_02_0001_recto_surface">
+                <div type="page" n="r.0001" xml:id="nb07_02_02_0001_recto_text"
+                    facs="#nb07_02_02_0001_recto_surface">
                     <!-- The pb@facs value is the same as the surface@type="page"/graphic@facs value from the above facsimile
                         section of this document. -->
-                    <pb facs="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1920px-Image_created_with_a_mobile_phone.png"/>
-                    <lg>    
-                        <l n="01" facs="#nb07_02_02_0001_recto_surface_line_01" xml:id="nb07_02_02_0001_recto_text_line_01">Filler</l>
-                        <l n="02" facs="#nb07_02_02_0001_recto_surface_line_02" xml:id="nb07_02_02_0001_recto_text_line_02">Filler</l>
-                        <l n="03" facs="#nb07_02_02_0001_recto_surface_line_03" xml:id="nb07_02_02_0001_recto_text_line_03">Filler</l><l>This is the fourth line I added.</l>
-                    </lg>
+                    <pb
+                        facs="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1920px-Image_created_with_a_mobile_phone.png"/>
+                    <lb/>
+                    <cit>
+                        <bibl>Lit. Digest 6 Dec 1930</bibl>
+                        <lb/>
+                        <quote>Filler
+                        <lb/>Filler <lb/>Filler <lb/>Filler</quote>
+                    </cit>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_02_0002_text" facs="#nb07_02_02_0002_surface">
-                <div type="page" n="v.0002" xml:id="nb07_02_02_0002_verso_text" facs="#nb07_02_02_0002_verso_surface">
+                <div type="page" n="v.0002" xml:id="nb07_02_02_0002_verso_text"
+                    facs="#nb07_02_02_0002_verso_surface">
                     <lg>
-                        <l n="01" facs="#nb07_02_02_0002_verso_surface_line_01" xml:id="nb07_02_02_0002_verso_text_line_01">Filler</l>
-                        <l n="02" facs="#nb07_02_02_0002_verso_surface_line_02" xml:id="nb07_02_02_0002_verso_text_line_02">Filler</l>
-                        <l n="03" facs="#nb07_02_02_0002_verso_surface_line_03" xml:id="nb07_02_02_0002_verso_text_line_03">Filler</l>
+                        <l n="01" facs="#nb07_02_02_0002_verso_surface_line_01"
+                            xml:id="nb07_02_02_0002_verso_text_line_01">Filler</l>
+                        <l n="02" facs="#nb07_02_02_0002_verso_surface_line_02"
+                            xml:id="nb07_02_02_0002_verso_text_line_02">Filler</l>
+                        <l n="03" facs="#nb07_02_02_0002_verso_surface_line_03"
+                            xml:id="nb07_02_02_0002_verso_text_line_03">Filler</l>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_02_0003_text" facs="#nb07_02_02_0003_surface">
-                <div type="page" n="r.0003" xml:id="nb07_02_02_0003_recto_text" facs="#nb07_02_02_0003_recto_surface">
+                <div type="page" n="r.0003" xml:id="nb07_02_02_0003_recto_text"
+                    facs="#nb07_02_02_0003_recto_surface">
                     <lg>
-                        <l n="01" facs="#nb07_02_02_0003_recto_surface_line_01" xml:id="nb07_02_02_0003_recto_text_line_01"><space extent="40"/>EXAMPLE
-                                TEXT<note xml:id="nb07_02_02_0003_recto_text_line_01_note_01">EXAMPLE NOTE</note>
+                        <l n="01" facs="#nb07_02_02_0003_recto_surface_line_01"
+                            xml:id="nb07_02_02_0003_recto_text_line_01"><space extent="40"/>EXAMPLE
+                                TEXT<note xml:id="nb07_02_02_0003_recto_text_line_01_note_01"
+                                >EXAMPLE NOTE</note>
                         </l>
-                        <l n="02" facs="#nb07_02_02_0003_recto_surface_line_02" xml:id="nb07_02_02_0003_recto_text_line_02">Filler</l>
-                        <l n="03" facs="#nb07_02_02_0003_recto_surface_line_03" xml:id="nb07_02_02_0003_recto_text_line_03">Filler</l>
+                        <l n="02" facs="#nb07_02_02_0003_recto_surface_line_02"
+                            xml:id="nb07_02_02_0003_recto_text_line_02">Filler</l>
+                        <l n="03" facs="#nb07_02_02_0003_recto_surface_line_03"
+                            xml:id="nb07_02_02_0003_recto_text_line_03">Filler</l>
                     </lg>
                 </div>
             </div>
