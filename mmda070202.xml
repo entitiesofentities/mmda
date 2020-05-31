@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -143,42 +140,31 @@
     <text xml:id="nb07_02_02_text" type="reading">
         <body>
             <div type="image" xml:id="nb07_02_02_0005_text" facs="#nb07_02_02_0005_surface">
-                <div type="page" n="r.0005" xml:id="nb07_02_02_0005_recto_text"
-                    facs="#nb07_02_02_0005_recto_surface">
+                <div type="page" n="r.0005" xml:id="nb07_02_02_0005_recto_text" facs="#nb07_02_02_0005_recto_surface">
                     <pb facs="https://moorearchive.org/custom/07_02_02_0005.jpg"/>
                     <desc>MM draws parentheses around the word DIARY in the printed title of the
                         diary and puts an asterisk to the right of the word.</desc>
                     <lg>
-                        <l n="01" facs="#nb07_02_02_0005_recto_surface_line_01"
-                            xml:id="nb07_02_02_0005_recto_text_line_01"><ref>Lit. Digest 6 Dec
+                        <l n="01" facs="#nb07_02_02_0005_recto_surface_line_01" xml:id="nb07_02_02_0005_recto_text_line_01"><ref>Lit. Digest 6 Dec
                                 1930</ref></l>
-                        <l n="02" facs="#nb07_02_02_0005_recto_surface_line_02"
-                            xml:id="nb07_02_02_0005_recto_text_line_02">x <quote>Dept F-2, 26
+                        <l n="02" facs="#nb07_02_02_0005_recto_surface_line_02" xml:id="nb07_02_02_0005_recto_text_line_02">x <quote>Dept F-2, 26
                                 Blackstone St. Cambridge Mass</quote></l>
-                        <l n="03" facs="#nb07_02_02_0005_recto_surface_line_03"
-                            xml:id="nb07_02_02_0005_recto_text_line_03"><quote>Ad</quote>
+                        <l n="03" facs="#nb07_02_02_0005_recto_surface_line_03" xml:id="nb07_02_02_0005_recto_text_line_03"><quote>Ad</quote>
                         </l>
-                        <l n="04" facs="#nb07_02_02_0005_recto_surface_line_04"
-                            xml:id="nb07_02_02_0005_recto_text_line_04"><quote>Send Illustr. booklet
+                        <l n="04" facs="#nb07_02_02_0005_recto_surface_line_04" xml:id="nb07_02_02_0005_recto_text_line_04"><quote>Send Illustr. booklet
                                 describing</quote></l>
-                        <l n="05" facs="#nb07_02_02_0005_recto_surface_line_05"
-                            xml:id="nb07_02_02_0005_recto_text_line_05"><quote>the Standard Diary
-                                line.</quote></l>
+                        <l n="05" facs="#nb07_02_02_0005_recto_surface_line_05" xml:id="nb07_02_02_0005_recto_text_line_05"><quote>the Standard</quote><quote> Diary line.</quote></l><l>Now you can see this line. </l>
                     </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_02_0002_text" facs="#nb07_02_02_0002_surface">
-                <div type="page" n="v.0002" xml:id="nb07_02_02_0028_recto_text"
-                    facs="#nb07_02_02_0028_recto_surface">
+                <div type="page" n="v.0002" xml:id="nb07_02_02_0028_recto_text" facs="#nb07_02_02_0028_recto_surface">
                     <pb facs="https://moorearchive.org/custom/07_02_02_0028.jpg"/>
                     <lg>
-                        <l n="01" facs="#nb07_02_02_0028_recto_surface_line_01"
-                            xml:id="nb07_02_02_0028_recto_text_line_01">Oct 19 1930</l>
-                        <l n="02" facs="#nb07_02_02_0028_recto_surface_line_02"
-                            xml:id="nb07_02_02_0028_recto_text_line_02"><ref>Close-Up Oct
+                        <l n="01" facs="#nb07_02_02_0028_recto_surface_line_01" xml:id="nb07_02_02_0028_recto_text_line_01">Oct 19 1930</l>
+                        <l n="02" facs="#nb07_02_02_0028_recto_surface_line_02" xml:id="nb07_02_02_0028_recto_text_line_02"><ref>Close-Up Oct
                             1930</ref></l>
-                        <l n="03" facs="#nb07_02_02_0028_recto_surface_line_03"
-                            xml:id="nb07_02_02_0028_recto_text_line_03"><ref>Conrad
+                        <l n="03" facs="#nb07_02_02_0028_recto_surface_line_03" xml:id="nb07_02_02_0028_recto_text_line_03"><ref>Conrad
                                     Veidt<note>Veidt, Conrad [1893-1943]. German film star of the
                                     Expressionist era who worked in Hollywood in the late
                                     1920s.</note> by Rob't Herring.<note>Herring, Robert
@@ -186,55 +172,38 @@
                                     criticism of early cinema who joined Close Up as London
                                     correspondent in 1927.</note><note>Herring, Robert. “Conrad
                                     Veidt.” Close Up 7.4 (October 1930): 270-72.</note></ref></l>
-                        <l n="04" facs="#nb07_02_02_0028_recto_surface_line_04"
-                            xml:id="nb07_02_02_0028_recto_text_line_04"><quote>C. V: So many things
+                        <l n="04" facs="#nb07_02_02_0028_recto_surface_line_04" xml:id="nb07_02_02_0028_recto_text_line_04"><quote type="start">C. V: So many things
                                 have happened these</quote>
                         </l>
-                        <l n="05" facs="#nb07_02_02_0028_recto_surface_line_05"
-                            xml:id="nb07_02_02_0028_recto_text_line_05"><quote>last few twenty
+                        <l n="05" facs="#nb07_02_02_0028_recto_surface_line_05" xml:id="nb07_02_02_0028_recto_text_line_05"><quote>last few twenty
                                 years, I say “Yes”</quote></l>
-                        <l n="06" facs="#nb07_02_02_0028_recto_surface_line_06"
-                            xml:id="nb07_02_02_0028_recto_text_line_06"><quote>when you tell me of
+                        <l n="06" facs="#nb07_02_02_0028_recto_surface_line_06" xml:id="nb07_02_02_0028_recto_text_line_06"><quote>when you <note type="internal">Here is the content. </note>tell me of
                                 anything tomorrow.</quote></l>
-                        <l n="07" facs="#nb07_02_02_0028_recto_surface_line_07"
-                            xml:id="nb07_02_02_0028_recto_text_line_07"><quote>(Hollywood) I had sun
+                        <l n="07" facs="#nb07_02_02_0028_recto_surface_line_07" xml:id="nb07_02_02_0028_recto_text_line_07"><quote>(Hollywood) I had sun
                                 all day, I had a</quote></l>
-                        <l n="08" facs="#nb07_02_02_0028_recto_surface_line_08"
-                            xml:id="nb07_02_02_0028_recto_text_line_08"><quote>nice house and a
+                        <l n="08" facs="#nb07_02_02_0028_recto_surface_line_08" xml:id="nb07_02_02_0028_recto_text_line_08"><quote>nice house and a
                                 swimming pool, there were</quote></l>
-                        <l n="09" facs="#nb07_02_02_0028_recto_surface_line_09"
-                            xml:id="nb07_02_02_0028_recto_text_line_09"><quote>flowers, and one
+                        <l n="09" facs="#nb07_02_02_0028_recto_surface_line_09" xml:id="nb07_02_02_0028_recto_text_line_09"><quote>flowers, and one
                                 thought it was paradise.</quote></l>
-                        <l n="10" facs="#nb07_02_02_0028_recto_surface_line_10"
-                            xml:id="nb07_02_02_0028_recto_text_line_10"><quote>One talked of oil and
+                        <l n="10" facs="#nb07_02_02_0028_recto_surface_line_10" xml:id="nb07_02_02_0028_recto_text_line_10"><quote>One talked of oil an<space extent="10"/>d
                                 cars and pictures.</quote></l>
-                        <l n="11" facs="#nb07_02_02_0028_recto_surface_line_11"
-                            xml:id="nb07_02_02_0028_recto_text_line_11"><quote>But after a little
+                        <l n="11" facs="#nb07_02_02_0028_recto_surface_line_11" xml:id="nb07_02_02_0028_recto_text_line_11"><quote>But after a little
                                 one said “Well, I</quote></l>
-                        <l n="12" facs="#nb07_02_02_0028_recto_surface_line_12"
-                            xml:id="nb07_02_02_0028_recto_text_line_12"><quote>would like to talk of
+                        <l n="12" facs="#nb07_02_02_0028_recto_surface_line_12" xml:id="nb07_02_02_0028_recto_text_line_12"><quote>would like to talk of
                                 something else now,</quote></l>
-                        <l n="13" facs="#nb07_02_02_0028_recto_surface_line_13"
-                            xml:id="nb07_02_02_0028_recto_text_line_13"><quote>and one could
+                        <l n="13" facs="#nb07_02_02_0028_recto_surface_line_13" xml:id="nb07_02_02_0028_recto_text_line_13"><quote>and one could
                                 not.”</quote></l>
-                        <l n="14" facs="#nb07_02_02_0028_recto_surface_line_14"
-                            xml:id="nb07_02_02_0028_recto_text_line_14"><quote>uses sures &amp; OK's
+                        <l n="14" facs="#nb07_02_02_0028_recto_surface_line_14" xml:id="nb07_02_02_0028_recto_text_line_14"><quote>uses sures &amp; OK's
                                 “You see I do</quote></l>
-                        <l n="15" facs="#nb07_02_02_0028_recto_surface_line_15"
-                            xml:id="nb07_02_02_0028_recto_text_line_15"><quote>not speak English,
-                                only the language</quote></l>
-                        <l n="16" facs="#nb07_02_02_0028_recto_surface_line_16"
-                            xml:id="nb07_02_02_0028_recto_text_line_16"><quote>I picked up in
+                        <l n="15" facs="#nb07_02_02_0028_recto_surface_line_15" xml:id="nb07_02_02_0028_recto_text_line_15"><quote>not speak English,
+                                on<space extent="5"/>ly the language</quote></l>
+                        <l n="16" facs="#nb07_02_02_0028_recto_surface_line_16" xml:id="nb07_02_02_0028_recto_text_line_16"><quote type="end">I picked up in
                                 Hollywood.”</quote>
                         </l>
-                        <l n="17" facs="#nb07_02_02_0028_recto_surface_line_17"
-                            xml:id="nb07_02_02_0028_recto_text_line_17"
-                            >__________________________________________</l>
-                        <l n="18" facs="#nb07_02_02_0028_recto_surface_line_18"
-                            xml:id="nb07_02_02_0028_recto_text_line_18"><ref>A Book of Make-up by
+                        <space extent="20"/><l n="17" facs="#nb07_02_02_0028_recto_surface_line_17" xml:id="nb07_02_02_0028_recto_text_line_17"><space extent="3"/>_____________________________</l>
+                        <l n="18" facs="#nb07_02_02_0028_recto_surface_line_18" xml:id="nb07_02_02_0028_recto_text_line_18"><ref>A Book of Make-up by
                                 Eric Ward</ref></l>
-                        <l n="19" facs="#nb07_02_02_0028_recto_surface_line_19"
-                            xml:id="nb07_02_02_0028_recto_text_line_19"><ref>Samuel French, Ltd.
+                        <l n="19" facs="#nb07_02_02_0028_recto_surface_line_19" xml:id="nb07_02_02_0028_recto_text_line_19"><ref>Samuel French, Ltd.
                                     3/6<note>Ward, Eric. A Book of Make-up. New York: Samuel French,
                                     1930. Volume is a how-to book for theater professionals that
                                     explains techniques for applying stage make-up. Reviewed in
@@ -242,20 +211,16 @@
                                     Blakeston writes, “A make-up book with colour illustrations,
                                     every colour in the charts being make-up. This is tantamount to
                                     genius!” (284).</note></ref></l>
-                        <l n="20" facs="#nb07_02_02_0028_recto_surface_line_20"
-                            xml:id="nb07_02_02_0028_recto_text_line_20"><ref>12th July 1930 Ill
+                        <l n="20" facs="#nb07_02_02_0028_recto_surface_line_20" xml:id="nb07_02_02_0028_recto_text_line_20"><ref>12th July 1930 Ill
                                 London News</ref></l>
-                        <l n="21" facs="#nb07_02_02_0028_recto_surface_line_21"
-                            xml:id="nb07_02_02_0028_recto_text_line_21"><ref>Lost Treasure: True
+                        <l n="21" facs="#nb07_02_02_0028_recto_surface_line_21" xml:id="nb07_02_02_0028_recto_text_line_21"><ref>Lost Treasure: True
                                 Tales of Hidden</ref></l>
-                        <l n="22" facs="#nb07_02_02_0028_recto_surface_line_22"
-                            xml:id="nb07_02_02_0028_recto_text_line_22"><ref>Hoards A Hyatt
+                        <l n="22" facs="#nb07_02_02_0028_recto_surface_line_22" xml:id="nb07_02_02_0028_recto_text_line_22"><ref>Hoards A Hyatt
                                     Verrill<note>Verrill, Alpheus Hyatt [1871-1954]. American
                                     zoologist, anthropologist, explorer, and author of over one
                                     hundred volumes of travel writing, adventure literature, and
                                     fiction. </note> (Appleton)</ref></l>
-                        <l n="23" facs="#nb07_02_02_0028_recto_surface_line_23"
-                            xml:id="nb07_02_02_0028_recto_text_line_23"><ref>reviewed by
+                        <l n="23" facs="#nb07_02_02_0028_recto_surface_line_23" xml:id="nb07_02_02_0028_recto_text_line_23"><ref>reviewed by
                                     <del>A</del> L. P. H.<note>H., L.P. “Inestimable Stones,
                                     Unvalued Jewels.” Rev. of Lost Treasure: True Tales of Hidden
                                     Hoards, by A. Hyatt Verrill. Illustrated London News (12 July
