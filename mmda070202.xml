@@ -116,15 +116,27 @@
             <graphic url="nb07_04_04_0001.jpg"/>
             <zone xml:id="nb07_04_04_0001_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
                 rend="line"/>
+            <zone xml:id="nb07_04_04_0001_recto_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+            <zone xml:id="nb07_04_04_0001_recto_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
         </surface>
         <surface xml:id="nb07_02_02_0002_verso_surface">
             <graphic url="nb07_04_04_0002.jpg"/>
             <zone xml:id="nb07_04_04_0002_verso_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
                 rend="line"/>
+            <zone xml:id="nb07_04_04_0002_verso_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+            <zone xml:id="nb07_04_04_0002_verso_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
         </surface>
         <surface xml:id="nb07_02_02_0003_recto_surface">
             <graphic url="nb07_04_04_0003.jpg"/>
             <zone xml:id="nb07_04_04_0003_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+            <zone xml:id="nb07_04_04_0003_recto_surface_line_02" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+            <zone xml:id="nb07_04_04_0003_recto_surface_line_03" lry="0" lrx="0" uly="0" ulx="0"
                 rend="line"/>
         </surface>
     </facsimile>
@@ -135,13 +147,13 @@
                     facs="#nb07_02_02_0001_recto_surface">
                     <!-- The pb@facs value is the same as the surface@type="page"/graphic@facs value from the above facsimile
                         section of this document. -->
-                    <lg>
-                        <pb facs="nb07_02_02_0001.jpg"/>
+                    <pb facs="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1920px-Image_created_with_a_mobile_phone.png"/>
+                    <lg>    
                         <l n="01" facs="#nb07_02_02_0001_recto_surface_line_01"
                             xml:id="nb07_02_02_0001_recto_text_line_01">Filler</l>
                         <l n="02" facs="#nb07_02_02_0001_recto_surface_line_02"
                             xml:id="nb07_02_02_0001_recto_text_line_02">Filler</l>
-                        <l n="01" facs="#nb07_02_02_0001_recto_surface_line_03"
+                        <l n="03" facs="#nb07_02_02_0001_recto_surface_line_03"
                             xml:id="nb07_02_02_0001_recto_text_line_03">Filler</l>
                     </lg>
                 </div>
