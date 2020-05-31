@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://moorearchive.org/custom/tei_all%20(3).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://moorearchive.org/custom/tei_all%20(3).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 07.02.02</title>
+                <author>Marianne Moore</author>
+                <editor>
+                    <persName>Robin Gail Schulze,</persName>
+                    <note>Notebook Editor, June 6, 2015 - January 2016</note>
+                </editor>
+                <editor>
+                    <persName>Jeff Westover,</persName>
+                    <note>Notebook Editor, January 2017 - present</note>
+                </editor>
+                <respStmt>
+                    <persName>Cristanne Miller,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Claire Nashar,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Kathleen Naughton,</persName>
+                    <resp>Proofreader</resp>
+                </respStmt>
+                <editor>
+                    <persName>Nikolaus Wasmoen,</persName>
+                    <note>Digital Editor</note>
+                </editor>
+                <respStmt>
+                    <persName>Tejas Magar,</persName>
+                    <resp>Web Developer</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Edward J. Sobczak,</persName>
+                    <resp>Web Administrator</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Marianne Moore Digital Archive (moorearchive.org)</publisher>
+                <date>[Pub Date]</date>
+                <availability>
+                    <p>[Copyright and Usage Statement]</p>
+                    <licence>[License info]</licence>
+                </availability>
+                <idno>07.02.02</idno>
+                <date>Pub Date</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository> Marianne Moore Collection, Rosenbach Museum and Library,
+                            Philadelphia, PA
+                            (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <idno>VII.02.02</idno>
+                    </msIdentifier>
+                    <p>The Standard Diary for 1923, published by the Standard Diary Company,
+                        Cambridgeport, MA, red leather binding, 460 pages in 230 leaves. Includes 39
+                        pages of pre-printed information of various kinds, e.g. public holidays,
+                        population of states and cities, weights and measures, time zones, tide
+                        tables, and important dates of WWI, followed by lined calendar pages with
+                        each leaf containing one date, such as Mon. Jan. 1, 1923. First image with
+                        MM’s writing is the Standard Diary for 1923 title page, the first of the 39
+                        pre-printed pages. RML number written in pencil on inside front cover,
+                        1250/6</p>
+                    <p>Relevant to publications: "No Swan So Fine," “The Plumet Basilisk,” "The
+                        Frigate Pelican," “The Jerboa,” “O To Be a Dragon,” “The Frigate Pelican,”
+                        “The Student,” “Nine Nectarines and other Porcelain,” “Camellia Sabina,”
+                        “The Buffalo,” “The Paper Nautiluls,” “Half Deity,” “Smooth Gnarled Crape
+                        Myrtle,” “In Distrust of Merits,” “Walking-Sticks and Paperweights and
+                        Watermarks,” “Virginia Britannia,” and essays “Feeling and Precision,”
+                        “Idiosyncrasy and Technique,” “Charlotte Bronte,” and “Humility,
+                        Concentration, and Gusto.”</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
+                    <category source="collex" xml:id="discipline">
+                        <catDesc>Literature</catDesc>
+                        <catDesc>Manuscript Studies</catDesc>
+                    </category>
+                    <category source="collex" xml:id="genre">
+                        <catDesc>Advertisement</catDesc>
+                        <catDesc>Criticism</catDesc>
+                        <catDesc>Ephemera</catDesc>
+                        <catDesc>Poetry</catDesc>
+                        <catDesc>Religion</catDesc>
+                        <catDesc>Review</catDesc>
+                        <catDesc>Speech</catDesc>
+                        <catDesc>Visual Art</catDesc>
+                    </category>
+                    <category source="collex" xml:id="thumbnail">
+                        <catDesc>[thumbnail image URL for notebook/object]</catDesc>
+                    </category>
+                    <category source="collex" xml:id="text">
+                        <catDesc>[plain text URL]</catDesc>
+                    </category>
+                    <category source="dc" xml:id="date">
+                        <catDesc>1930-43</catDesc>
+                    </category>
+                    <category source="dcterms" xml:id="hasPart">
+                        <catDesc>[notebook page RDF objects]</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile xml:id="nb07_02_02_facsimile">
+        <surface xml:id="nb07_02_02_0001_recto_surface">
+            <graphic url="nb07_04_04_0001.jpg"/>
+            <zone xml:id="nb07_04_04_0001_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+        </surface>
+        <surface xml:id="nb07_02_02_0002_verso_surface">
+            <graphic url="nb07_04_04_0002.jpg"/>
+            <zone xml:id="nb07_04_04_0002_verso_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+        </surface>
+        <surface xml:id="nb07_02_02_0003_recto_surface">
+            <graphic url="nb07_04_04_0003.jpg"/>
+            <zone xml:id="nb07_04_04_0003_recto_surface_line_01" lry="0" lrx="0" uly="0" ulx="0"
+                rend="line"/>
+        </surface>
+    </facsimile>
+    <text xml:id="nb07_02_02_text" type="reading">
+        <body>
+            <div type="image" xml:id="nb07_02_02_0001_text" facs="#nb07_02_02_0001_surface">
+                <div type="page" n="r.0001" xml:id="nb07_02_02_0001_recto_text"
+                    facs="#nb07_02_02_0001_recto_surface">
+                    <!-- The pb@facs value is the same as the surface@type="page"/graphic@facs value from the above facsimile
+                        section of this document. -->
+                    <pb facs="nb07_02_02_0001.jpg"/>
+                    <l n="01" facs="#nb07_02_02_0001_recto_surface_line_01"
+                        xml:id="nb07_02_02_0001_recto_text_line_01">Filler</l>
+                    <l n="02" facs="#nb07_02_02_0001_recto_surface_line_02"
+                        xml:id="nb07_02_02_0001_recto_text_line_02">Filler</l>
+                    <l n="01" facs="#nb07_02_02_0001_recto_surface_line_03"
+                        xml:id="nb07_02_02_0001_recto_text_line_03">Filler</l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_02_0002_text" facs="#nb07_02_02_0002_surface">
+                <div type="page" n="v.0002" xml:id="nb07_02_02_0002_verso_text"
+                    facs="#nb07_02_02_0002_verso_surface">
+                    <l n="01" facs="#nb07_02_02_0002_verso_surface_line_01"
+                        xml:id="nb07_02_02_0002_verso_text_line_01">Filler</l>
+                    <l n="02" facs="#nb07_02_02_0002_verso_surface_line_02"
+                        xml:id="nb07_02_02_0002_verso_text_line_02">Filler</l>
+                    <l n="03" facs="#nb07_02_02_0002_verso_surface_line_03"
+                        xml:id="nb07_02_02_0002_verso_text_line_03">Filler</l>
+                </div>
+            </div>
+            <div type="image" xml:id="nb07_02_02_0003_text" facs="#nb07_02_02_0003_surface">
+                <div type="page" n="r.0003" xml:id="nb07_02_02_0003_recto_text"
+                    facs="#nb07_02_02_0003_recto_surface">
+                    <l n="01" facs="#nb07_02_02_0003_recto_surface_line_01"
+                        xml:id="nb07_02_02_0003_recto_text_line_01"><space extent="40"/>EXAMPLE
+                            TEXT<note xml:id="nb07_02_02_0003_recto_text_line_01_note_01">EXAMPLE
+                            NOTE</note>
+                    </l>
+                    <l n="02" facs="#nb07_02_02_0003_recto_surface_line_02"
+                        xml:id="nb07_02_02_0003_recto_text_line_02">Filler</l>
+                    <l n="03" facs="#nb07_02_02_0003_recto_surface_line_03"
+                        xml:id="nb07_02_02_0003_recto_text_line_03">Filler</l>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
