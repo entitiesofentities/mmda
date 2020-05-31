@@ -145,8 +145,7 @@
             <div type="image" xml:id="nb07_02_02_0005_text" facs="#nb07_02_02_0005_surface">
                 <div type="page" n="r.0005" xml:id="nb07_02_02_0005_recto_text"
                     facs="#nb07_02_02_0005_recto_surface">
-                    <pb
-                        facs="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1920px-Image_created_with_a_mobile_phone.png"/>
+                    <pb facs="https://moorearchive.org/custom/07_02_02_0005.jpg"/>
                     <desc>MM draws parentheses around the word DIARY in the printed title of the
                         diary and puts an asterisk to the right of the word.</desc>
                     <lg>
@@ -171,6 +170,7 @@
             <div type="image" xml:id="nb07_02_02_0002_text" facs="#nb07_02_02_0002_surface">
                 <div type="page" n="v.0002" xml:id="nb07_02_02_0028_recto_text"
                     facs="#nb07_02_02_0028_recto_surface">
+                    <pb facs="https://moorearchive.org/custom/07_02_02_0028.jpg"/>
                     <lg>
                         <l n="01" facs="#nb07_02_02_0028_recto_surface_line_01"
                             xml:id="nb07_02_02_0028_recto_text_line_01">Oct 19 1930</l>
@@ -178,61 +178,91 @@
                             xml:id="nb07_02_02_0028_recto_text_line_02"><ref>Close-Up Oct
                             1930</ref></l>
                         <l n="03" facs="#nb07_02_02_0028_recto_surface_line_03"
-                            xml:id="nb07_02_02_0028_recto_text_line_03"><ref>Conrad Veidt by Rob't
-                            Herring.</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_03"><ref>Conrad
+                                    Veidt<note>Veidt, Conrad [1893-1943]. German film star of the
+                                    Expressionist era who worked in Hollywood in the late
+                                    1920s.</note> by Rob't Herring.<note>Herring, Robert
+                                    [1903-1975]. London-based writer known for his commentary and
+                                    criticism of early cinema who joined Close Up as London
+                                    correspondent in 1927.</note><note>Herring, Robert. “Conrad
+                                    Veidt.” Close Up 7.4 (October 1930): 270-72.</note></ref></l>
                         <l n="04" facs="#nb07_02_02_0028_recto_surface_line_04"
-                            xml:id="nb07_02_02_0028_recto_text_line_04"><quote>C. V: So many things have happened these</quote>
-</l>
+                            xml:id="nb07_02_02_0028_recto_text_line_04"><quote>C. V: So many things
+                                have happened these</quote>
+                        </l>
                         <l n="05" facs="#nb07_02_02_0028_recto_surface_line_05"
-                            xml:id="nb07_02_02_0028_recto_text_line_05"><quote>last few twenty years, I say “Yes”</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_05"><quote>last few twenty
+                                years, I say “Yes”</quote></l>
                         <l n="06" facs="#nb07_02_02_0028_recto_surface_line_06"
-                            xml:id="nb07_02_02_0028_recto_text_line_06"><quote>when you tell me of anything
-                            tomorrow.</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_06"><quote>when you tell me of
+                                anything tomorrow.</quote></l>
                         <l n="07" facs="#nb07_02_02_0028_recto_surface_line_07"
-                            xml:id="nb07_02_02_0028_recto_text_line_07"><quote>(Hollywood) I had sun all day, I had a</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_07"><quote>(Hollywood) I had sun
+                                all day, I had a</quote></l>
                         <l n="08" facs="#nb07_02_02_0028_recto_surface_line_08"
-                            xml:id="nb07_02_02_0028_recto_text_line_08"><quote>nice house and
-                            a swimming pool, there were</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_08"><quote>nice house and a
+                                swimming pool, there were</quote></l>
                         <l n="09" facs="#nb07_02_02_0028_recto_surface_line_09"
-                            xml:id="nb07_02_02_0028_recto_text_line_09"><quote>flowers, and one thought it was
-                            paradise.</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_09"><quote>flowers, and one
+                                thought it was paradise.</quote></l>
                         <l n="10" facs="#nb07_02_02_0028_recto_surface_line_10"
-                            xml:id="nb07_02_02_0028_recto_text_line_10"><quote>One talked of oil and cars and pictures.</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_10"><quote>One talked of oil and
+                                cars and pictures.</quote></l>
                         <l n="11" facs="#nb07_02_02_0028_recto_surface_line_11"
-                            xml:id="nb07_02_02_0028_recto_text_line_11"><quote>But after a
-                            little one said “Well, I</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_11"><quote>But after a little
+                                one said “Well, I</quote></l>
                         <l n="12" facs="#nb07_02_02_0028_recto_surface_line_12"
-                            xml:id="nb07_02_02_0028_recto_text_line_12"><quote>would like to talk of something else now,</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_12"><quote>would like to talk of
+                                something else now,</quote></l>
                         <l n="13" facs="#nb07_02_02_0028_recto_surface_line_13"
-                            xml:id="nb07_02_02_0028_recto_text_line_13"><quote>and one could not.”</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_13"><quote>and one could
+                                not.”</quote></l>
                         <l n="14" facs="#nb07_02_02_0028_recto_surface_line_14"
-                            xml:id="nb07_02_02_0028_recto_text_line_14"><quote>uses sures &amp; OK's “You see I do</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_14"><quote>uses sures &amp; OK's
+                                “You see I do</quote></l>
                         <l n="15" facs="#nb07_02_02_0028_recto_surface_line_15"
-                            xml:id="nb07_02_02_0028_recto_text_line_15"><quote>not
-                            speak English, only the language</quote></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_15"><quote>not speak English,
+                                only the language</quote></l>
                         <l n="16" facs="#nb07_02_02_0028_recto_surface_line_16"
-                            xml:id="nb07_02_02_0028_recto_text_line_16"><quote>I picked up in Hollywood.”</quote>
-                            </l>
+                            xml:id="nb07_02_02_0028_recto_text_line_16"><quote>I picked up in
+                                Hollywood.”</quote>
+                        </l>
                         <l n="17" facs="#nb07_02_02_0028_recto_surface_line_17"
-                            xml:id="nb07_02_02_0028_recto_text_line_17">__________________________________________</l>
+                            xml:id="nb07_02_02_0028_recto_text_line_17"
+                            >__________________________________________</l>
                         <l n="18" facs="#nb07_02_02_0028_recto_surface_line_18"
-                            xml:id="nb07_02_02_0028_recto_text_line_18"><ref>A Book of
-                            Make-up by Eric Ward</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_18"><ref>A Book of Make-up by
+                                Eric Ward</ref></l>
                         <l n="19" facs="#nb07_02_02_0028_recto_surface_line_19"
-                            xml:id="nb07_02_02_0028_recto_text_line_19"><ref>Samuel French, Ltd. 3/6</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_19"><ref>Samuel French, Ltd.
+                                    3/6<note>Ward, Eric. A Book of Make-up. New York: Samuel French,
+                                    1930. Volume is a how-to book for theater professionals that
+                                    explains techniques for applying stage make-up. Reviewed in
+                                    Close Up 7.4 (October 1930) by Oswell Blakeston (284-85).
+                                    Blakeston writes, “A make-up book with colour illustrations,
+                                    every colour in the charts being make-up. This is tantamount to
+                                    genius!” (284).</note></ref></l>
                         <l n="20" facs="#nb07_02_02_0028_recto_surface_line_20"
-                            xml:id="nb07_02_02_0028_recto_text_line_20"><ref>12th July 1930 Ill London News</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_20"><ref>12th July 1930 Ill
+                                London News</ref></l>
                         <l n="21" facs="#nb07_02_02_0028_recto_surface_line_21"
-                            xml:id="nb07_02_02_0028_recto_text_line_21"><ref>Lost Treasure: True Tales of Hidden</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_21"><ref>Lost Treasure: True
+                                Tales of Hidden</ref></l>
                         <l n="22" facs="#nb07_02_02_0028_recto_surface_line_22"
-                            xml:id="nb07_02_02_0028_recto_text_line_22"><ref>Hoards A Hyatt Verrill (Appleton)</ref></l>
+                            xml:id="nb07_02_02_0028_recto_text_line_22"><ref>Hoards A Hyatt
+                                    Verrill<note>Verrill, Alpheus Hyatt [1871-1954]. American
+                                    zoologist, anthropologist, explorer, and author of over one
+                                    hundred volumes of travel writing, adventure literature, and
+                                    fiction. </note> (Appleton)</ref></l>
                         <l n="23" facs="#nb07_02_02_0028_recto_surface_line_23"
-                            xml:id="nb07_02_02_0028_recto_text_line_23"><ref>reviewed by <del>A</del> L. P.
-                            H.</ref> over</l>
+                            xml:id="nb07_02_02_0028_recto_text_line_23"><ref>reviewed by
+                                    <del>A</del> L. P. H.<note>H., L.P. “Inestimable Stones,
+                                    Unvalued Jewels.” Rev. of Lost Treasure: True Tales of Hidden
+                                    Hoards, by A. Hyatt Verrill. Illustrated London News (12 July
+                                    1930): 60. </note></ref> over</l>
                     </lg>
                 </div>
             </div>
-            
         </body>
     </text>
 </TEI>
