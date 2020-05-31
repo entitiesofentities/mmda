@@ -78,7 +78,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc>
+        <!-- <encodingDesc>
             <classDecl>
                 <taxonomy source="https://arc-staging.dh.tamu.edu/index.php/Submitting_RDF">
                     <category source="collex" xml:id="discipline">
@@ -109,7 +109,7 @@
                     </category>
                 </taxonomy>
             </classDecl>
-        </encodingDesc>
+        </encodingDesc> -->
     </teiHeader>
     <facsimile xml:id="nb07_02_02_facsimile">
         <surface xml:id="nb07_02_02_0001_recto_surface">
