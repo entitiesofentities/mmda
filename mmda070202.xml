@@ -135,38 +135,44 @@
                     facs="#nb07_02_02_0001_recto_surface">
                     <!-- The pb@facs value is the same as the surface@type="page"/graphic@facs value from the above facsimile
                         section of this document. -->
-                    <pb facs="nb07_02_02_0001.jpg"/>
-                    <l n="01" facs="#nb07_02_02_0001_recto_surface_line_01"
-                        xml:id="nb07_02_02_0001_recto_text_line_01">Filler</l>
-                    <l n="02" facs="#nb07_02_02_0001_recto_surface_line_02"
-                        xml:id="nb07_02_02_0001_recto_text_line_02">Filler</l>
-                    <l n="01" facs="#nb07_02_02_0001_recto_surface_line_03"
-                        xml:id="nb07_02_02_0001_recto_text_line_03">Filler</l>
+                    <lg>
+                        <pb facs="nb07_02_02_0001.jpg"/>
+                        <l n="01" facs="#nb07_02_02_0001_recto_surface_line_01"
+                            xml:id="nb07_02_02_0001_recto_text_line_01">Filler</l>
+                        <l n="02" facs="#nb07_02_02_0001_recto_surface_line_02"
+                            xml:id="nb07_02_02_0001_recto_text_line_02">Filler</l>
+                        <l n="01" facs="#nb07_02_02_0001_recto_surface_line_03"
+                            xml:id="nb07_02_02_0001_recto_text_line_03">Filler</l>
+                    </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_02_0002_text" facs="#nb07_02_02_0002_surface">
                 <div type="page" n="v.0002" xml:id="nb07_02_02_0002_verso_text"
                     facs="#nb07_02_02_0002_verso_surface">
-                    <l n="01" facs="#nb07_02_02_0002_verso_surface_line_01"
-                        xml:id="nb07_02_02_0002_verso_text_line_01">Filler</l>
-                    <l n="02" facs="#nb07_02_02_0002_verso_surface_line_02"
-                        xml:id="nb07_02_02_0002_verso_text_line_02">Filler</l>
-                    <l n="03" facs="#nb07_02_02_0002_verso_surface_line_03"
-                        xml:id="nb07_02_02_0002_verso_text_line_03">Filler</l>
+                    <lg>
+                        <l n="01" facs="#nb07_02_02_0002_verso_surface_line_01"
+                            xml:id="nb07_02_02_0002_verso_text_line_01">Filler</l>
+                        <l n="02" facs="#nb07_02_02_0002_verso_surface_line_02"
+                            xml:id="nb07_02_02_0002_verso_text_line_02">Filler</l>
+                        <l n="03" facs="#nb07_02_02_0002_verso_surface_line_03"
+                            xml:id="nb07_02_02_0002_verso_text_line_03">Filler</l>
+                    </lg>
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_02_0003_text" facs="#nb07_02_02_0003_surface">
                 <div type="page" n="r.0003" xml:id="nb07_02_02_0003_recto_text"
                     facs="#nb07_02_02_0003_recto_surface">
-                    <l n="01" facs="#nb07_02_02_0003_recto_surface_line_01"
-                        xml:id="nb07_02_02_0003_recto_text_line_01"><space extent="40"/>EXAMPLE
-                            TEXT<note xml:id="nb07_02_02_0003_recto_text_line_01_note_01">EXAMPLE
-                            NOTE</note>
-                    </l>
-                    <l n="02" facs="#nb07_02_02_0003_recto_surface_line_02"
-                        xml:id="nb07_02_02_0003_recto_text_line_02">Filler</l>
-                    <l n="03" facs="#nb07_02_02_0003_recto_surface_line_03"
-                        xml:id="nb07_02_02_0003_recto_text_line_03">Filler</l>
+                    <lg>
+                        <l n="01" facs="#nb07_02_02_0003_recto_surface_line_01"
+                            xml:id="nb07_02_02_0003_recto_text_line_01"><space extent="40"/>EXAMPLE
+                                TEXT<note xml:id="nb07_02_02_0003_recto_text_line_01_note_01"
+                                >EXAMPLE NOTE</note>
+                        </l>
+                        <l n="02" facs="#nb07_02_02_0003_recto_surface_line_02"
+                            xml:id="nb07_02_02_0003_recto_text_line_02">Filler</l>
+                        <l n="03" facs="#nb07_02_02_0003_recto_surface_line_03"
+                            xml:id="nb07_02_02_0003_recto_text_line_03">Filler</l>
+                    </lg>
                 </div>
             </div>
         </body>
