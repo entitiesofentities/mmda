@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -234,9 +234,6 @@
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0003-recto.jpeg"
                         n="0003-recto"/>
                     <desc>[Page-level Description]</desc>
-                    <lg> </lg>
-                </div>
-                <div type="page" n="r.0003" xml:id="nb07_02_03_0003_recto_text">
                     <lg>
                         <l n="01"/>
                         <l n="02">[blank]                  <hi rend="pencil">Exeter   Carhart &amp; McGhee   Magic Casement</hi>s <note>Carhart, George S.  and McGhee, Paul A., eds. <hi rend="italics">Through Magic Casements</hi>. New York: Macmillan, 1941. A popular collection of poetry first published in 1926.</note></l>
@@ -426,10 +423,6 @@
                         <l n="09">[blank]                     not a hint that Tragedy arose as a means of interpreting <del>history</del> the</l>
                         <l n="10">[blank]                     saga stories in the light of a later morality.</l>
                         <l n="11">[blank]                             . . . . His dissection discovers all the great first principles</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0006" xml:id="nb07_02_03_0006_verso_text">
-                    <lg>
                         <l n="12">[blank]                     except the principle of life.</l>
                         <l n="13">[blank] </l>
                         <l n="14">[blank]          XVI  All rules for writing are rules for writing badly—</l>
@@ -1170,10 +1163,6 @@
                         <l n="21">[blank]                                           He takes you along with him &amp; <hi rend="underline">turns hearing into sight</hi>.</l>
                         <l n="22">[blank]                         211   The vulgar phrase is sometimes more enlightening than</l>
                         <l n="23">[blank]                                  elegant language.</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0018" xml:id="nb07_02_03_0018_verso_text">
-                    <lg>
                         <l n="24">[blank] Theopompus of        Theopompus: “Philip had a wonderful faculty for stomaching</l>
                         <l n="25">[blank] Chios a 4th c                                                                                                              things."</l>
                         <l n="26">[blank] historian</l>
@@ -1577,10 +1566,6 @@
                         <l n="01">[blank]               <quote rend="begin"/><note>Demetrius, <hi rend="italics">On Style</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>Many words owe their charm to their application to a special object. </l>
                         <l n="02">[blank]                                                                                                       <add>upbraided</add></l>
                         <l n="03">[blank]                    “why, this bird is a flatterer and a rogue.” (as it if were a</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0025" xml:id="nb07_02_03_0025_recto_text">
-                    <lg>
                         <l n="04">[blank]                                                                                                             person)</l>
                         <l n="05">[blank]               There is a peculiarly Sapphic grace due to recantation</l>
                         <l n="06">[blank]                          <seg type="verse">The bridegroom comes, as Ares tall—</seg> </l>
@@ -1630,12 +1615,14 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0026_text">
-                <div type="page" n="v.0026" xml:id="nb07_02_03_0026_verso_text"><pb
+                <div type="page" n="v.0026" xml:id="nb07_02_03_0026_verso_text">
+                    <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0026-verso.jpeg"
                         n="0026-verso"/>
-                    <desc>[Page-level Description] </desc>&amp;lt;!The underlining in lines 09, 11
-                    and 12 is double. MM draws two short slashes in the middle of the double
-                    underline of line 12.!&amp;gt;<lg>
+                    <desc>[Page-level Description] The underlining in lines 09, 11 and 12 is double.
+                        MM draws two short slashes in the middle of the double underline of line
+                        12.</desc>
+                    <lg>
                         <l n="01">[blank]          409     <quote rend="begin"/><note>Demetrius, <hi rend="italics">On Style</hi>. Fyfe and Roberts, <hi rend="italics">Poetics</hi> (see earlier note).</note>It would be well if you were to read the Praise of the Lentil</l>
                         <l n="02">[blank]                        in a party of free-livers.</l>
                         <l n="03">[blank]                       Writers may use such comparisons as “Egyptian clematis” of</l>
@@ -1684,7 +1671,8 @@
                         <l n="v04">[vertical line]</l>
                         <l n="v05">[vertical line]</l>
                         <l n="v06">[vertical line]</l>
-                    </lg></div>
+                    </lg>
+                </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0027_text">
                 <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
@@ -1709,10 +1697,6 @@
                         <l n="12">[blank]                    Thus warily does he advance.</l>
                         <l n="13">[blank]      437       <hi rend="underline">Cacophany</hi> (harshness of sound) is often vivid</l>
                         <l n="14">[blank]                    Homer: And upward &amp; downward &amp; thwartward &amp; slantward</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
-                    <lg>
                         <l n="15">[blank]                    they tramped evermore.</l>
                         <l n="16">[blank]                    <hi rend="underline">Onomatopoeic words</hi>        “lapping” imitates the sound</l>
                         <l n="17">[blank]                    of dogs drinking</l>
@@ -1720,10 +1704,6 @@
                         <l n="19">[blank] essentials of                                                                2 naturalness</l>
                         <l n="20">[blank]      439       The style must be steady-going &amp; void of formal</l>
                         <l n="21">[blank] persuasiveness                                                                 rhythm.</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0027" xml:id="nb07_02_03_0027_recto_text">
-                    <lg>
                         <l n="22">[blank]      439       To which may be added Theophrastus statement:</l>
                         <l n="23">[blank]                    some points should be not elaborated but left</l>
                         <l n="24">[blank]                    to the comprehension of the hearer.</l>
@@ -3006,11 +2986,12 @@
                 </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0049_text">
-                <div type="page" n="r.0049" xml:id="nb07_02_03_0049_recto_text"><pb
+                <div type="page" n="r.0049" xml:id="nb07_02_03_0049_recto_text">
+                    <pb
                         facs="https://moorearchive.org/app/site/media/notebook_images/web_optimized/nb07_02_03_0049-recto.jpeg"
                         n="0049-recto"/>
-                    <desc>[Page-level Description] </desc>&amp;lt;!MM doubly underlines title in
-                    line 10.!&amp;gt;<lg>
+                    <desc>[Page-level Description] MM doubly underlines title in line 10.</desc>
+                    <lg>
                         <l n="01">[blank] <quote rend="begin"/><note>Dick, <hi rend="italics">Burns</hi> (see earlier note). </note>A 7th version in one of the Auchinleck MSS</l>
                         <l n="02">[blank] Hutheolf was slain; his son Horn flew “fer South in Inglond”</l>
                         <l n="03">[blank] to the court of King Houlac, received a gold ring from Rimineld</l>
@@ -3059,7 +3040,8 @@
                         <l n="v04">[vertical line]</l>
                         <l n="v05">[vertical line]</l>
                         <l n="v06">[vertical line]</l>
-                    </lg></div>
+                    </lg>
+                </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0050_text">
                 <div type="page" n="v.0050" xml:id="nb07_02_03_0050_verso_text">
@@ -3158,10 +3140,6 @@
                         <l n="29">[blank]         The Ring &amp; the Book” 1912 &amp; published in <hi rend="underline">Notes on Novelists</hi>.</l>
                         <l n="30">[blank]</l>
                         <l n="31">[blank] x      the germ . . . developing into something quite different from its immediate</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0051" xml:id="nb07_02_03_0051_recto_text">
-                    <lg>
                         <l n="32">[blank]         promise.</l>
                         <l n="33">[blank] xi    the argument throughout the Prefaces, that in art what is merely stated is not presented.</l>
                         <l n="34">[blank] xi    the art of guiding it (the method) w authority—since this sense of authority</l>
@@ -4252,10 +4230,6 @@
                         <l n="26">[blank]                                                                                                          <add>hint</add> </l>
                         <l n="27">[blank]                171   To improvise w. . . . freedom . . . without the hint of a flood</l>
                         <l n="28">[blank]                         . . . was here my definite business.   an <hi rend="underline">amusette</hi> to catch those</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0069" xml:id="nb07_02_03_0069_recto_text">
-                    <lg>
                         <l n="29">[blank]                         not easily caught . . . the jaded, the disillusioned, the fastidious.</l>
                         <l n="30">[blank]</l>
                         <l n="31">[blank]               173   One has to choose . . . among one’s difficulties attaching</l>
@@ -4735,10 +4709,6 @@
                         <l n="22">[blank]                             qualified as “A Study” . . .       269 I suppress . . . the appended</l>
                         <l n="23">[blank]                                                                             <add>simple</add> </l>
                         <l n="24">[blank]                             qualification—in view of the truth . . . that my little exhibition</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0077" xml:id="nb07_02_03_0077_recto_text">
-                    <lg>
                         <l n="25">[blank]                             is made to no degree . . . in critical <del>by</del> but . . . in poetical terms</l>
                         <l n="26">[blank]</l>
                         <l n="27">[blank]             270         <hi rend="underline">Pandora</hi> 1884 “self-made,” or . . . self-making, girl,</l>
@@ -5232,7 +5202,8 @@
                         <l n="34">[blank]            50     and as with meaning, so with intonations</l>
                         <l n="35">[blank]            51      no word can be judged as to whether it is good or bad,</l>
                         <l n="36">[blank]                      correct or incorrect, beautiful or ugly . . . in isolation<quote rend="end"/> </l>
-                        <l n="37">[blank] <seg type="prose">cf Henry James with “bristle” and “portentous”</seg><l n="28"><note>James, Henry (see earlier note). Both of these words, particularly "bristle," appear frequently in James’s prefaces. MM cites “bristle” from <hi rend="italics">Art of the Novel</hi> (see earlier note) on p. 0074-verso above; on "portentous," MM may have in mind James’s comment in his preface to <hi rend="italics">Wings of the Dove</hi> that it is a "word I rejoice in" (<hi rend="italics">Art of the Novel</hi>, 303).</note></l></l>
+                        <l n="37">[blank] <seg type="prose">cf Henry James with “bristle” and “portentous”</seg></l>
+                        <l n="28">[blank]<note>James, Henry (see earlier note). Both of these words, particularly "bristle," appear frequently in James’s prefaces. MM cites “bristle” from <hi rend="italics">Art of the Novel</hi> (see earlier note) on p. 0074-verso above; on "portentous," MM may have in mind James’s comment in his preface to <hi rend="italics">Wings of the Dove</hi> that it is a "word I rejoice in" (<hi rend="italics">Art of the Novel</hi>, 303).</note></l>
                         <l n="38">[blank]</l>
                         <l n="39">[blank]</l>
                         <l n="40">[blank]</l>
@@ -5679,7 +5650,7 @@
                         <l n="03">[blank]                       for the ordering of the circuit of our soul which hath fallen</l>
                         <l n="04">[blank]                       out of Harmony.”<quote rend="end"/>        I.A. Richards. </l>
                         <l n="05">[blank] <hi rend="underline">TS Eliot</hi> <note>Eliot, Thomas Stearns (1888-1965). American modernist poet whose literary criticism was from the beginning of his career in the 1910s as influential as his innovative poetry. His criticism and the example of his poetry were foundational to the New Criticism of the 1930s and 1940s.</note>  _________________________________</l>
-                        <l n="06">[blank]       ↓    21      <quote rend="begin"/><note>Eliot, T.S. <hi rend="italics">The Use of Poetry and the Use of Criticism: Studies in the Relation of Criticism to Poetry in England</hi>. London: Faber &amp; Faber, 1933. As MM indicates on page 0095-recto, these entries are continuous with the ones for pages 16-17 of Eliot's <hi rend="italics">Use of Poetry</hi>.<lg/> </note> If poetry is a form of “communication” yet that which is to be</l>
+                        <l n="06">[blank]       ↓    21      <quote rend="begin"/><note>Eliot, T.S. <hi rend="italics">The Use of Poetry and the Use of Criticism: Studies in the Relation of Criticism to Poetry in England</hi>. London: Faber &amp; Faber, 1933. As MM indicates on page 0095-recto, these entries are continuous with the ones for pages 16-17 of Eliot's <hi rend="italics">Use of Poetry</hi>.</note> If poetry is a form of “communication” yet that which is to be</l>
                         <l n="07">[blank]                        communicated is the poem itself, &amp; only incidentally the experience</l>
                         <l n="08">[blank]                        &amp; the thought which have gone into it. The poem’s existence</l>
                         <l n="09">[blank]                        is somewhere between the writer and the reader; it has a reality</l>
@@ -6112,10 +6083,6 @@
                         <l n="21">[blank]                    and an evasion of the visible &amp; sensible world.<quote rend="end"/> </l>
                         <l n="22">[blank]</l>
                         <l n="23">[blank]                                        <bibl type="begin"/><hi rend="underline">Selected Essays</hi>   Oct. 1934<bibl type="end"/> </l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0100" xml:id="nb07_02_03_0100_recto_text">
-                    <lg>
                         <l n="24">[blank]                                                                                                                  <add>(1917)</add> </l>
                         <l n="25">[blank]                              T.S. Eliot            [Tradition and the Individual Talent]</l>
                         <l n="26">[blank]          14   <quote rend="begin"/> <note>Eliot, T.S. <hi rend="italics">Selected Essays</hi>. Second edition, revised and enlarged. London: Faber &amp; Faber, 1934. </note>We dwell w. satisfaction upon the poet’s difference fr. his</l>
@@ -6623,50 +6590,6 @@
                         <l n="v06">[vertical line]</l>
                     </lg>
                 </div>
-                <div type="page" n="v.0108" xml:id="nb07_02_03_0108_verso_text">
-                    <lg>
-                        <l n="11"/>
-                        <l n="13">[blank] <quote rend="begin"/></l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0108" xml:id="nb07_02_03_0108_verso_text">
-                    <lg>
-                        <l n="15">[blank] </l>
-                        <l n="16">[blank] </l>
-                        <l n="17">[blank] </l>
-                        <l n="18">[blank] </l>
-                        <l n="19">[blank] </l>
-                        <l n="20">[blank] </l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]</l>
-                        <l n="25">[blank]</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]</l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
-                    </lg>
-                    <lg type="vertical">
-                        <l n="v01">[vertical line]</l>
-                        <l n="v02">[vertical line]</l>
-                        <l n="v03">[vertical line]</l>
-                        <l n="v04">[vertical line]</l>
-                        <l n="v05">[vertical line]</l>
-                        <l n="v06">[vertical line]</l>
-                    </lg>
-                </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0109_text">
                 <div type="page" n="r.0109" xml:id="nb07_02_03_0109_recto_text">
@@ -6968,53 +6891,6 @@
                         <l n="v06">[vertical line]</l>
                     </lg>
                 </div>
-                <div type="page" n="r.0113" xml:id="nb07_02_03_0113_recto_text">
-                    <lg>
-                        <l n="10"/>
-                        <l n="07">[blank]</l>
-                        <l n="08">[blank]</l>
-                        <l n="09">[blank]</l>
-                        <l n="12">[blank]</l>
-                        <l n="13">[blank]</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0113" xml:id="nb07_02_03_0113_recto_text">
-                    <lg>
-                        <l n="16">[blank]</l>
-                        <l n="17">[blank] </l>
-                        <l n="18">[blank]</l>
-                        <l n="19">[blank]</l>
-                        <l n="20">[blank]</l>
-                        <l n="21">[blank]</l>
-                        <l n="22">[blank]</l>
-                        <l n="23">[blank]</l>
-                        <l n="24">[blank]</l>
-                        <l n="25">[blank]</l>
-                        <l n="26">[blank]</l>
-                        <l n="27">[blank]</l>
-                        <l n="28">[blank]</l>
-                        <l n="29">[blank]</l>
-                        <l n="30">[blank]</l>
-                        <l n="31">[blank]</l>
-                        <l n="32">[blank]</l>
-                        <l n="33">[blank]</l>
-                        <l n="34">[blank]</l>
-                        <l n="35">[blank]</l>
-                        <l n="36">[blank]</l>
-                        <l n="37">[blank]</l>
-                        <l n="38">[blank]</l>
-                        <l n="39">[blank]</l>
-                        <l n="40">[blank]</l>
-                    </lg>
-                    <lg type="vertical">
-                        <l n="v01">[vertical line]</l>
-                        <l n="v02">[vertical line]</l>
-                        <l n="v03">[vertical line]</l>
-                        <l n="v04">[vertical line]</l>
-                        <l n="v05">[vertical line]</l>
-                        <l n="v06">[vertical line]</l>
-                    </lg>
-                </div>
             </div>
             <div type="image" xml:id="nb07_02_03_0114_text">
                 <div type="page" n="v.0114" xml:id="nb07_02_03_0114_verso_text">
@@ -7036,7 +6912,7 @@
                         <l n="09">[blank]                      ours.</l>
                         <l n="10">[blank]</l>
                         <l n="11">[blank]                                              The Metaphysical Poets (1921)</l>
-                        <l n="12">[blank]          283     The Exequy of Bishop King                                                                        ←<l n="09"/></l>
+                        <l n="12">[blank]          283     The Exequy of Bishop King                                                                        </l>
                         <l n="13">[blank]                                              <seg type="versebegin"/>But heark! My Pulse, like a soft Drum</l>
                         <l n="14">[blank]                                              Beats my approach, tells Thee I come;</l>
                         <l n="15">[blank]                                              And slow how ere my marches be,</l>
@@ -7123,10 +6999,6 @@
                         <l n="33">[blank]                               And ever, but in times of need, at hand;<seg type="verseend"/> </l>
                         <l n="34">[blank]</l>
                         <l n="35">[blank]       311      || Dryden . . . is always in control of his ascent, and can rise or fall at will . . .</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0115" xml:id="nb07_02_03_0115_recto_text">
-                    <lg>
                         <l n="36">[blank]                       (Milton) has elected a perch from which he cannot afford to fall, &amp;</l>
                         <l n="37">[blank]                       from which he is in danger of slipping.</l>
                         <l n="38">[blank]                                            Blake (1920)</l>
@@ -7277,10 +7149,6 @@
                         <l n="01">[blank]         341      <quote rend="begin"/><note>Eliot, <hi rend="italics">Selected Essays</hi> (see earlier note). </note>he is finally ‘alone with the Alone.’</l>
                         <l n="02">[blank]</l>
                         <l n="03">[blank]                                  John Bramhall      <del>3</del> </l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0118" xml:id="nb07_02_03_0118_verso_text">
-                    <lg>
                         <l n="04">[blank]</l>
                         <l n="05">[blank]          346     Hobbes . . . His philosophic theory is a theory of sense perception.</l>
                         <l n="06">[blank]                      There is a modern theory “[behaviourism]” closely akin to that</l>
@@ -7947,7 +7815,6 @@
                         <l n="v06">[vertical line] </l>
                     </lg>
                 </div>
-                <div type="page" n="v.0128" xml:id="nb07_02_03_0128_verso_text"/>
             </div>
             <div type="image" xml:id="nb07_02_03_0129_text">
                 <div type="page" n="r.0129" xml:id="nb07_02_03_0129_recto_text">
@@ -8348,10 +8215,6 @@
                         <l n="03">[blank]                                                                            Amherst</l>
                         <l n="04">[blank]              <bibl type="begin"/>The Poems of Emily Dickinson edited by Martha D. Bianchi </l>
                         <l n="05">[blank]                                                                                   &amp; Alfred Leete Hampson</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0135" xml:id="nb07_02_03_0135_recto_text">
-                    <lg>
                         <l n="06">[blank]                                  Little Brown &amp; Co. Boston 1936<bibl type="end"/><note>Bianchi, Martha D., and Hampson, Alfred Leete, eds. <hi rend="italics">The Poems of Emily Dickinson</hi>. Boston: Little, Brown and Co., 1936. </note></l>
                         <l n="07">[blank]                                               <quote rend="begin"/>CLXXIV</l>
                         <l n="08">[blank]                              <seg type="verse">As if the sea should part</seg>                        Part six</l>
@@ -8425,10 +8288,6 @@
                         <l n="14">[blank]             xii     voluntary remoteness was sacred to her—</l>
                         <l n="15">[blank]                                                                                                        <del>all</del> </l>
                         <l n="16">[blank]             xii     Like George Fox, “Seeker,” she . . . got beyond need of forms.</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0136" xml:id="nb07_02_03_0136_verso_text">
-                    <lg>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]                                                                                        <hi rend="pencil">the trepidation of suspense</hi> </l>
                         <l n="19">[blank]           128    <seg type="versebegin"/>Elysium is as far as to                What fortitude the soul contains,</l>
@@ -8478,10 +8337,6 @@
                         beginning of line 27 to the first word of line 24.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]          <note>MM seems to cite the notes for her 1933 review in <hi rend="italics">Poetry</hi> of Mabel Loomis Todd's 1931 enlarged edition of <hi rend="italics">Letters of Emily Dickinson</hi> (<hi rend="italics">Prose</hi> 290-293).</note>Notes for review in Poetry about 1931                   Life &amp; Letters.    E D Bianchi<note>Bianchi, Martha Dickinson. <hi rend="italics">Life and Letters of Emily Dickinson</hi>, 7th ed. Boston: Houghton Mifflin, 1930.</note></l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0137" xml:id="nb07_02_03_0137_recto_text">
-                    <lg>
                         <l n="02">[blank]          <quote rend="begin"/>Amherst &amp; its black firs “in the days when Amherst Coll. &amp; Amherst were one;” when</l>
                         <l n="03">[blank]          souvenirs of Palestine <del>were shown</del> sent by missionaries were shown—cloisonné</l>
                         <l n="04">[blank]          scent-bottles, lentils &amp; “husks which the swine did eat;” where E.D.’s father</l>
@@ -8848,10 +8703,6 @@
                         <l n="11">[blank]              ed. S.W. Singer (1820) 280.    for P. &amp; his contemporaries the word <hi rend="underline">correctness</hi></l>
                         <l n="12">[blank]              had the full colour of novelty.</l>
                         <l n="13">[blank]       2     he took over nothing that he did not find reasonable.</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0143" xml:id="nb07_02_03_0143_recto_text">
-                    <lg>
                         <l n="14">[blank]</l>
                         <l n="15">[blank]       2     Aristotle had considered poetry as an imitation. But the poet,</l>
                         <l n="16">[blank]              he had counselled, must not simply copy what he finds before</l>
@@ -9168,10 +9019,6 @@
                         <l n="32">[blank]                                      interested in observing <del>the</del> different effects.</l>
                         <l n="33">[blank]</l>
                         <l n="34">[blank]                             25     cf Wordsworth      Yarrow Unvisited</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0148" xml:id="nb07_02_03_0148_verso_text">
-                    <lg>
                         <l n="35">[blank]                                                  <seg type="versebegin"/>The swan on still St. Mary’s <del>lake</del> <del>l</del>Lake</l>
                         <l n="36">[blank]                                                    Floats double, swan and shadow.<seg type="verseend"/> <quote rend="end"/> </l>
                         <l n="37">[blank]</l>
@@ -9694,10 +9541,6 @@
                         <l n="17">[blank]                                                                                                                          1854 </l>
                         <l n="18">[blank]               &amp; Leaves of Grass 1855. You might search all the rest </l>
                         <l n="19">[blank]               of American lit. without being able to collect a group of</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0157" xml:id="nb07_02_03_0157_recto_text">
-                    <lg>
                         <l n="20">[blank]               books equal to these in imaginative vitality.</l>
                         <l n="21">[blank]</l>
                         <l n="22">[blank]               . . . how . . . why . . . what (or you might be primarily concerned w <del>what</del> </l>
@@ -9866,10 +9709,6 @@
                         <l n="10">[blank]               of citizenship, namely: Are you using such gifts as you</l>
                         <l n="11">[blank]               possess for or against the people?’. . . These standards</l>
                         <l n="12">[blank]               are the <del>right &amp;</del> inevitable and right extension of Emerson’s</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0160" xml:id="nb07_02_03_0160_verso_text">
-                    <lg>
                         <l n="13">[blank]               demands in The American Scholar . . .</l>
                         <l n="14">[blank]            Acknowledgments:</l>
                         <l n="15">[blank]   xvii             The 2 critics who have helped me draw a circle of</l>
@@ -9938,10 +9777,6 @@
                         <l n="20">[blank]                                function of scholarship as of society is not to stake out claims</l>
                         <l n="21">[blank]                                on which others must not trespass, but to provide a</l>
                         <l n="22">[blank]                                community of knowledge in which others may share—</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0161" xml:id="nb07_02_03_0161_recto_text">
-                    <lg>
                         <l n="23">[blank]                                                                                       Kittery, Maine, April 1941</l>
                         <l n="24">[blank]                                Concerned as he was w. every possibility of <hi rend="underline">seeing</hi>,</l>
                         <l n="25">[blank]                               Emerson was fascinated w the developing art of </l>
@@ -10760,10 +10595,6 @@
                         <l n="13">[blank] senior year       What Music Shall We Have. (unpub’d essay)</l>
                         <l n="14">[blank]                     One of its sentences, ‘A man’s life should be a stately</l>
                         <l n="15">[blank]                     march to an unheard music.’</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0175" xml:id="nb07_02_03_0175_recto_text">
-                    <lg>
                         <l n="16">[blank]           84     a deep response to rhythm was his primary experience.</l>
                         <l n="17">[blank]</l>
                         <l n="18">[blank]           85     <hi rend="underline">Week on the Merrimack &amp; Concord</hi>: ‘a true account of the actual</l>
@@ -11003,10 +10834,6 @@
                         <l n="19">[blank]                   the colleges &amp; Parliament.’ But no sentence is ‘made of Roman</l>
                         <l n="20">[blank]                   words alone, without loss of strength.’</l>
                         <l n="21">[blank]</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0179" xml:id="nb07_02_03_0179_recto_text">
-                    <lg>
                         <l n="22">[blank]        122     Melville: And only when, at 25, he had come back fr. his</l>
                         <l n="23">[blank]                   wandering, could he turn to books with his whole attention,</l>
                         <l n="24">[blank]                   partly in the hope of finding answers to questions that had</l>
@@ -11179,10 +11006,6 @@
                         <l n="16">[blank]</l>
                         <l n="17">[blank]            158     New England Landscapes</l>
                         <l n="18">[blank]</l>
-                    </lg>
-                </div>
-                <div type="page" n="v.0182" xml:id="nb07_02_03_0182_verso_text">
-                    <lg>
                         <l n="19">[blank]                       Whitehead: ‘the two most obvious characteristics of Nature are</l>
                         <l n="20">[blank]                       <del>loveliness</del> &amp; power,’</l>
                         <l n="21">[blank]                       <add>loveliness</add>                     <add>Channing</add> </l>
@@ -11813,10 +11636,6 @@
                         double.!&amp;gt;</desc>
                     <lg>
                         <l n="01">[blank]                   Melville</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0193" xml:id="nb07_02_03_0193_recto_text">
-                    <lg>
                         <l n="02">[blank]             457    <note>Matthiessen, <hi rend="italics">Renaissance</hi> (see earlier note). </note><quote rend="begin"/>The Master’s great command is Love: . . . the more we love, the</l>
                         <l n="03">[blank]                        more we know’</l>
                         <l n="04">[blank]</l>
@@ -12193,10 +12012,6 @@
                         <l n="25">[blank]                        fishing in the upper Lakes, &amp; added: ‘Ignorant People</l>
                         <l n="26">[blank]                        may object that the upper Lakes are fresh, &amp; that Cod &amp; Whale</l>
                         <l n="27">[blank]                        are Salt Water Fish: But let them know, Sir, that Cod, like</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0199" xml:id="nb07_02_03_0199_recto_text">
-                    <lg>
                         <l n="28">[blank]                        other Fish when attack’d by their Enemies, fly into any</l>
                         <l n="29">[blank]                        Water where they can be safest; that Whales, when they</l>
                         <l n="30">[blank]                        have a mind to eat Cod, pursue them wherever they fly;</l>
@@ -12773,10 +12588,6 @@
                         <l n="10">[blank]</l>
                         <l n="11">[blank]   59   In my defence the only arms I allow myself to use, silence, exile &amp;</l>
                         <l n="12">[blank]          cunning.</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0209" xml:id="nb07_02_03_0209_recto_text">
-                    <lg>
                         <l n="13">[blank]</l>
                         <l n="14">[blank]   66   All of J’s books, like Thomas Mann’s, fit into the broadening</l>
                         <l n="15">[blank]          dialectical pattern of Künstler versus Bürger.</l>
@@ -12910,18 +12721,10 @@
                         <l n="23">[blank]                      images)           when you bring discordant sounds &amp; associations</l>
                         <l n="24">[blank]                      together, you have created a pun. If the associations</l>
                         <l n="25">[blank]                      remain irrelevant, it is a bad pun; if they show an unlooked-</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0211" xml:id="nb07_02_03_0211_recto_text">
-                    <lg>
                         <l n="26">[blank]                      for relevance, it is better; if the relevant associations are</l>
                         <l n="27">[blank]                      rich enough, it is poetry.</l>
                         <l n="28">[blank]</l>
                         <l n="29">[blank]                      can pun his way through 628 pages.</l>
-                    </lg>
-                </div>
-                <div type="page" n="r.0211" xml:id="nb07_02_03_0211_recto_text">
-                    <lg>
                         <l n="30">[blank]             186   The 3 types of verbal wit that Freud has discriminated—</l>
                         <l n="31">[blank]                      condensation, displacement, allusion.</l>
                         <l n="32">[blank]             188   by the waters of babalong we sit down &amp; laugh</l>
